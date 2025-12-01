@@ -31,6 +31,7 @@ This website showcases the full course curriculum, instructor details, and an in
 - Easy to extend (sign-up, pricing, blog, etc.)
 
 ## 🌍 Live Demo
-(https://web-bootcamp.vercel.app/)
+(https://web-bootcamp-eight.vercel.app)
+
 ## 👨‍🏫 Instructor
 Mahmoud Al Shukri — Full-Stack Developer & Technical Consultant.
