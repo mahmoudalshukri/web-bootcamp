@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     "ai tools for developers",
   ],
 
-  metadataBase: new URL("https://web-bootcamp.vercel.app"),
+  metadataBase: new URL("https://web-bootcamp-eight.vercel.app"),
 
   icons: {
     icon: "/favicon.ico",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Modern Full-Stack Web Development Bootcamp (2025)",
     description:
       "Learn full-stack modern web development using Next.js, React, TypeScript, Node.js, MongoDB, Tailwind, shadcn/ui, and AI developer tools.",
-    url: "https://web-bootcamp.vercel.app",
+    url: "https://web-bootcamp-eight.vercel.app",
     siteName: "Full-Stack Bootcamp 2025",
     images: [
       {
